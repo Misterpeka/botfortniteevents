@@ -11,4 +11,4 @@ bot.on('ready', function () {
     }
   })
   
-bot.login('NDI0OTIxNTI4MjMzMzYxNDE4.DZlyrA.fLNk-Ivo275J69Q0-vCPh6gNSc0')
+bot.login(process.env.TOKEN)
